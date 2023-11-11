@@ -12,11 +12,11 @@
 
 
 # 插件提供：
-节点名字 SuperAdd , 快捷搜索"s+"
+节点名字 SuperAdd , 快捷搜索 "s+"
 
-SuperMultiply, 快捷搜索"s*"
+SuperMultiply, 快捷搜索 "s*"
 
-SuperSuper，快捷搜索"ss" ， 重量级节点，拥有两种形态，！！ 4.27特供节点 ！！
+SuperSuper，快捷搜索 "ss" ， 重量级节点，拥有两种形态，！！ 4.27特供节点 ！！
 
 当它的 CustomFunc 值为1时，它是加法， 值为2时，它就是乘法！！
 
