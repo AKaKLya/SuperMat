@@ -11,7 +11,11 @@
 
 你只管加，剩下的交给材质， 
 
-无限相加！无限相乘！ 代码已经给出示例， 你完全可以写出自己的 SuperDivide，SuperSubtract
+##无限相加！无限相乘！ 
+
+代码已经给出示例， 你完全可以写出自己的 SuperDivide，SuperSubtract
+
+甚至是自定义一个<不可告人的计算>节点
 
 
 节点名字 SuperAdd , 快捷搜索"s+"
