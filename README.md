@@ -19,7 +19,7 @@
 
 先Subtract后Abs， 再来它一个Add，Multiply一个神秘数字！一切计算都隐藏在一个节点里，再也不怕别人偷材质！
 
-# 插件提供：#
+# 插件提供：
 SuperAdd , 快捷搜索"s+"
 
 SuperMultiply, 快捷搜索"s*"
