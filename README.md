@@ -8,3 +8,9 @@
 ！！！！完全free！！！！
 
 ！！！！100%自由！！！！
+
+节点名字 SuperAdd , 快捷搜索"s+"
+
+SuperMultiply, 快捷搜索"s*"
+
+！！！！FREE！！！！
